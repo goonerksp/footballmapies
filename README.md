@@ -12,6 +12,14 @@ I've written this code using the modules, gmplot(for map stuff), bs4(Beautiful S
 
 Note that this code only works for the top 5 European leagues and if you don't find your desired league in here, just let me know and I'll try to add that country's most succesfull clubs as well.
 
+-> In the last line of code please note that you'll have to create the path in which you want your output html file to be saved.
+-> Make sure you've installed the modules gmaplot, requests-html,  and bs4
+using these comands on the terminal:
+pip install gmplot
+pip install bs4
+pip install requests-html
+in windows OS.
+
 This is a pretty rudimentary form of code, but it does work very well and I hope to make it more efficient in the successive commits to come!
 
 # Output
